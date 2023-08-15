@@ -38,7 +38,7 @@ export const NavBar = () => {
         <Container>
           <Navbar.Brand href="/">
             {/* <img src={logo} alt="Logo" /> */}
-            <h4 className="text-white">SA</h4>
+            <h4 className="text-white">Seun Alo</h4>
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav">
             <span className="navbar-toggler-icon"></span>
